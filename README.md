@@ -43,7 +43,7 @@ The tests cover adding a contact, finding existing and missing contacts, deletin
 
 ## Screencast
 
-Screencast video link: [Add your video link here after recording]
+Screencast video link: https://us05web.zoom.us/clips/share/xJRaHF49SPSXQGW57tkwrw
 
 ## Conclusion
 
